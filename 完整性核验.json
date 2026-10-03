@@ -1,0 +1,65 @@
+{
+  "clash_original_rules": 544,
+  "clash_nodes": 13,
+  "clash_groups": 9,
+  "shadowrocket_original_rule_entries": 591,
+  "shadowrocket_valid_rules": 565,
+  "malformed_yaml_lines": 26,
+  "rewrite_entries": 807,
+  "script_entries": 43,
+  "host_entries": 17,
+  "mitm_fields": 4,
+  "remote_resources": 25,
+  "remote_404_urls": [
+    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.js",
+    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.js",
+    "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.js",
+    "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/themekuwo.js"
+  ],
+  "disabled_404_script_entries": 28,
+  "duplicate_script_names": {
+    "nf_rating.js": 2,
+    "微博去广告": 2
+  },
+  "regex_valid": 849,
+  "cron_without_pattern": 1,
+  "downloaded_script_syntax": [
+    {
+      "url": "https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js",
+      "syntax": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Wechat.js",
+      "syntax": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Kuwo.js",
+      "syntax": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.js",
+      "syntax": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mymoonyue/QuantumultX/master/Scripts/scripts/caiyun_svip.js",
+      "syntax": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/yichahucha/surge/master/nf_rating.js",
+      "syntax": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/yichahucha/surge/master/nf_rating_season.js",
+      "syntax": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/yichahucha/surge/master/wb_ad.js",
+      "syntax": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/yichahucha/surge/master/wb_launch.js",
+      "syntax": true
+    }
+  ],
+  "audit_rows": 2028
+}
